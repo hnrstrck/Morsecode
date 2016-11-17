@@ -50,7 +50,7 @@ Weitere Erklärungen finden sich in der Datei `readme/programmablauf_bebildert/a
 
 ### Erklärungen
 
-Ein paar kurze Erklärungen:
+Ein paar kurze Erklärungen. Weitere Erklärungen sind dem Quelltext zu entnehmen. 
 
 #### Zeichen
 
