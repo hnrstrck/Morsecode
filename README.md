@@ -11,6 +11,7 @@ Schülerinnen und Schüler können mit dem Programm erfahren, wie der Kommunikat
 * Paketbasierte Kommunikation
 * Protokollbasierte Kommunikation (angelehnt an TCP/IP: Aufbau, Checksummen, Paketreihenfolge)
 * Verschlüsselung / sicherer Kommunikationsaustausch
+
 umgesetzt werden. Derzeit funktioniert der Kommunikationsaustausch nur unidirektional (Pi A sendet etwas an Pi B, Pi B sendet ACKs / NACKs zur Bestätigung / Ablehnung der Pakete). Diese Entscheidung wurde aus Gründen der Komplexität getroffen.
 
 ### Voraussetzungen
