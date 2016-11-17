@@ -2,7 +2,7 @@
 ## Raspberry Pis unterhalten sich mittels Morsecode
 
 <div align="center">
-<img src="readme/pi_a_pi_b_uebertragung.png" alt="Pi A schickt etwas an Pi B" width="300px">
+<img src="readme/pi_a_pi_b_uebertragung.png" alt="Pi A schickt etwas an Pi B" width="500px">
 </div>
 
 Schülerinnen und Schüler können mit dem Programm erfahren, wie der Kommunikationsaustausch mit dem Morsecode funktioniert. So können Unterrichtsinhalte zur 
