@@ -42,20 +42,40 @@ Es zeigt sich das folgende Fenster.
 
 Weitere Erklärungen finden sich in der Datei  `readme/programmablauf_bebildert/ablauf.pdf`.
 
-#### Testen
+### Testen
 
 Mit dem Skript `test_abstand/abstandstest.py` kann der Abstand der Pis angepasst werden (zuvor Pins in `test_abstand/config_pins_abstand.py` einstellen!), sodass die Kommunikation funktioniert. In der Praxis ist ein Abstand von 4 bis 5 cm möglich (je nach Helligkeit der Dioden).
 
+### Erklärungen
 
-#### Lizenz / License
+#### Sonderzeichen
+
+
+| Sonderzeichen 	| Bedeutung | 
+|-----------------	| ---------|
+|-.-.-   | Verbindungsaufbau|
+|...-.   | Bestätigung ACK |
+|...-.   | Bestätigung ACK |
+|........| Fehler, keine Bestätigung, NACK |
+
+#### 
+Die Kommunikation läuft in etwa so ab:
+
+<div align="center">
+<img src="readme/verbindung.png" alt="Verbindung" width="600px">
+</div>
+
+
+
+### Lizenz / License
 
 Alle Dateien in diesem Repository steht unter einer *Namensnennung -- Nicht-kommerziell -- Weitergabe unter gleichen Bedingungen 4.0 International*-Lizenz. Die Bedingungen der Lizenz können unter folgendem Link eingesehen werden: [http://creativecommons.org/licenses/by-nc-sa/4.0/deed.de](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
 
-##### Autoren:
+#### Autoren:
 
 * Heiner Stroick
 * Tim Vormann
 
-#### Weitere Informationen
+### Weitere Informationen
 
 Diese Arbeit entstand in einem Seminar zum Raspberry Pi an der TU Dortmund im Sommersemester 2016.
