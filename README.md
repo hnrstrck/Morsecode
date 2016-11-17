@@ -70,10 +70,11 @@ Ein paar kurze Erklärungen:
 
 #### Pakete
 
-* maximal 7 Pakete 
-* die ersten 3 Bits eines Paketes bilden die Nummer des Paketes (binär kodiert, die Nummerierung der Pakete be- ginnt mit 1)
-* dann folgen die Daten-Bits
-* das letzte Bit ist ein Bit für die Checksumme (`-` für eine gerade Anzahl, `.` für eine ungerade Anzahl an DOTS, also `.`)
+* maximal 7 Pakete können verschickt werden
+  * die ersten 3 Bits eines Paketes bilden die Nummer des Paketes (binär kodiert, die Nummerierung der Pakete beginnt mit 1)
+  * dann folgen die Daten-Bits
+  * das letzte Bit ist ein Bit für die Checksumme (`-` für eine gerade Anzahl, `.` für eine ungerade Anzahl an DOTS, also `.`)
+* weitere Infos: Im Quelltext `morsecode_to_packages.py`.
 
 #### Kommunikation
 
