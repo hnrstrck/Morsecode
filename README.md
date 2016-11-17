@@ -1,5 +1,5 @@
 # Morsecode
-## Raspberry Pis unterhalten sich mittels Morsecode
+## Morsecode mit dem Raspberry Pi senden und empfangen
 
 <div align="center">
 <img src="readme/pi_a_pi_b_uebertragung.png" alt="Pi A schickt etwas an Pi B" width="500px">
