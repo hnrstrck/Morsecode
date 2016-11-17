@@ -40,11 +40,13 @@ Es zeigt sich das folgende Fenster.
 <img src="readme/sshot_7.PNG" alt="Startbildschirm" width="600px">
 </div>
 
-Weitere Erklärungen finden sich in der Datei  `readme/programmablauf_bebildert/ablauf.pdf`.
-
 ### Testen
 
 Mit dem Skript `test_abstand/abstandstest.py` kann der Abstand der Pis angepasst werden (zuvor Pins in `test_abstand/config_pins_abstand.py` einstellen!), sodass die Kommunikation funktioniert. In der Praxis ist ein Abstand von 4 bis 5 cm möglich (je nach Helligkeit der Dioden).
+
+### Beispiel
+
+Weitere Erklärungen finden sich in der Datei `readme/programmablauf_bebildert/ablauf.pdf`.
 
 ### Erklärungen
 
