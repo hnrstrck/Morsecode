@@ -37,7 +37,7 @@ Am Raspberry Pi müssen dafür die Python-Dateien installiert werden. Dann erfol
 Es zeigt sich das folgende Fenster.
 
 <div align="center">
-<img src="readme/sshot_7.PNG" alt="Startbildschirm" width="300px">
+<img src="readme/sshot_7.PNG" alt="Startbildschirm" width="600px">
 </div>
 
 Weitere Erklärungen finden sich in der Datei  `readme/programmablauf_bebildert/ablauf.pdf`.
