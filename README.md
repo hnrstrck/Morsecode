@@ -26,7 +26,7 @@ Es sind nur wenige Voraussetzungen nötig. Python ist bereits installiert.
 
 #### Einstellungen des Programms
 
-In der Datei `pi_a/config_pins.py` (bzw.  `pi_b/config_pins.py`) muss auf beiden Seiten der Pin für Diode (senden) und Phototransistor (empfangen) eingestellt werden.
+In der Datei `pi_a/config_pins.py` (bzw.  `pi_b/config_pins.py`) muss auf beiden Seiten der Pin für Diode (*senden*) und Phototransistor (*empfangen*) eingestellt werden.
 
 ### Starten
 
