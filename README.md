@@ -56,6 +56,6 @@ Alle Dateien in diesem Repository steht unter einer *Namensnennung -- Nicht-komm
 * Heiner Stroick
 * Tim Vormann
 
-####### Weitere Informationen
+###### Weitere Informationen
 
 Diese Arbeit entstand in einem Seminar zum Raspberry Pi an der TU Dortmund im Sommersemester 2016.
