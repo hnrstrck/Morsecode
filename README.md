@@ -80,7 +80,7 @@ Ein paar kurze Erklärungen:
 Die Kommunikation läuft in etwa so ab:
 
 <div align="center">
-<img src="readme/verbindung.png" alt="Verbindung" width="600px">
+<img src="readme/verbindung.png" alt="Verbindung" width="300px">
 </div>
 
 
