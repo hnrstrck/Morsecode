@@ -48,17 +48,35 @@ Mit dem Skript `test_abstand/abstandstest.py` kann der Abstand der Pis angepasst
 
 ### Erklärungen
 
-#### Sonderzeichen
+Ein paar kurze Erklärungen:
 
+#### Zeichen
 
 | Sonderzeichen 	| Bedeutung | 
 |-----------------	| ---------|
-|-.-.-   | Verbindungsaufbau|
-|...-.   | Bestätigung ACK |
-|...-.   | Bestätigung ACK |
-|........| Fehler, keine Bestätigung, NACK |
+|`-`   | LANG, DASH|
+|`.`   | KURZ, DOT |
+|`#`   | Trennung zwischen Buchstaben |
+|`\`   | Trennung zwischen Wörtern (Leerzeichen) |
 
-#### 
+#### Sonderzeichen
+
+| Sonderzeichen 	| Bedeutung | 
+|-----------------	| ---------|
+|`-.-.-`   | Verbindungsaufbau|
+|`...-.`   | Bestätigung ACK |
+|`...-.`   | Bestätigung ACK |
+|`........`| Fehler, keine Bestätigung, NACK |
+
+#### Pakete
+
+* maximal 7 Pakete 
+* die ersten 3 Bits eines Paketes bilden die Nummer des Paketes (binär kodiert, die Nummerierung der Pakete be- ginnt mit 1)
+* dann folgen die Daten-Bits
+* das letzte Bit ist ein Bit für die Checksumme (`-` für eine gerade Anzahl, `.` für eine ungerade Anzahl an DOTS, also `.`)
+
+#### Kommunikation
+
 Die Kommunikation läuft in etwa so ab:
 
 <div align="center">
