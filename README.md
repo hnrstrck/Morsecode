@@ -40,7 +40,7 @@ Es zeigt sich das folgende Fenster.
 <img src="readme/sshot_7.PNG" alt="Startbildschirm" width="600px">
 </div>
 
-## Testen
+## Abstand der Pis testen
 
 Mit dem Skript `test_abstand/abstandstest.py` kann der Abstand der Pis angepasst werden (zuvor Pins in `test_abstand/config_pins_abstand.py` einstellen!), sodass die Kommunikation funktioniert. In der Praxis ist ein Abstand von 4 bis 5 cm möglich (je nach Helligkeit der Dioden).
 
