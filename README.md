@@ -54,7 +54,7 @@ Ein paar kurze Erklärungen. Weitere Erklärungen sind dem Quelltext zu entnehme
 
 #### Zeichen
 
-| Sonderzeichen 	| Bedeutung | 
+| Morsezeichen 	| Bedeutung | 
 |-----------------	| ---------|
 |`-`   | LANG, DASH|
 |`.`   | KURZ, DOT |
