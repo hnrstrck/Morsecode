@@ -59,7 +59,7 @@ Ein paar kurze Erklärungen. Weitere Erklärungen sind dem Quelltext zu entnehme
 |`-`   | LANG, DASH|
 |`.`   | KURZ, DOT |
 |`#`   | Trennung zwischen Buchstaben |
-|`\`   | Trennung zwischen Wörtern (Leerzeichen) |
+|`/`   | Trennung zwischen Wörtern (Leerzeichen) |
 
 ### Sonderzeichen
 

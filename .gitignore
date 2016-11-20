@@ -5,4 +5,4 @@
 *.fls
 *.synctex.gz
 *.class
-
+*.pyc
