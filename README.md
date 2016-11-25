@@ -91,7 +91,7 @@ Die Kommunikation läuft in etwa so ab:
 
 ## Lizenz / License
 
-Alle Dateien in diesem Repository steht unter einer *Namensnennung -- Nicht-kommerziell -- Weitergabe unter gleichen Bedingungen 4.0 International*-Lizenz. Die Bedingungen der Lizenz können unter folgendem Link eingesehen werden: [http://creativecommons.org/licenses/by-nc-sa/4.0/deed.de](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
+Alle Dateien in diesem Repository steht unter einer *Namensnennung – Nicht-kommerziell – Weitergabe unter gleichen Bedingungen 4.0 International*-Lizenz. Die Bedingungen der Lizenz können unter folgendem Link eingesehen werden: [http://creativecommons.org/licenses/by-nc-sa/4.0/deed.de](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
 
 ### Autoren
 
