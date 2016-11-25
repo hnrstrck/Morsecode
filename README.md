@@ -5,7 +5,8 @@ Morsecode mit dem Raspberry Pi senden und empfangen
 <img src="readme/pi_a_pi_b_uebertragung.png" alt="Pi A schickt etwas an Pi B" width="500px">
 </div>
 
-Schülerinnen und Schüler können mit dem Programm erfahren, wie der Kommunikationsaustausch mit dem Morsecode funktioniert. So können Unterrichtsinhalte zur 
+Schülerinnen und Schüler können mit dem Programm erfahren, wie der Kommunikationsaustausch mit dem Morsecode funktioniert. So können Unterrichtsinhalte zur
+ 
 * Kodierung
 * Ziele der Kommunikation
 * Paketbasierte Kommunikation
@@ -46,7 +47,7 @@ Mit dem Skript `test_abstand/abstandstest.py` kann der Abstand der Pis angepasst
 
 ## Beispiel
 
-Weitere Erklärungen finden sich in der Datei `readme/programmablauf_bebildert/ablauf.pdf`.
+Ein bebildertes Ablaufbeispiel mit weiteren Erklärungen findet sich in der Datei `readme/programmablauf_bebildert/ablauf.pdf`.
 
 ## Erklärungen
 
@@ -54,21 +55,21 @@ Ein paar kurze Erklärungen. Weitere Erklärungen sind dem Quelltext zu entnehme
 
 ### Zeichen
 
-| Morsezeichen 	| Bedeutung | 
-|-----------------	| ---------|
-|`-`   | LANG, DASH|
-|`.`   | KURZ, DOT |
-|`#`   | Trennung zwischen Buchstaben |
-|`/`   | Trennung zwischen Wörtern (Leerzeichen) |
+| Morsezeichen 		| Bedeutung                                    |
+|-----------------	| ---------------------------------------------|
+|`-`   				| LANG, DASH                                   |
+|`.` 					| KURZ, DOT                                    |
+|`#`  				 	| Trennung zwischen Buchstaben                 |
+|`/`  					| Trennung zwischen Wörtern (Leerzeichen)      |
 
 ### Sonderzeichen
 
-| Sonderzeichen 	| Bedeutung | 
-|-----------------	| ---------|
-|`-.-.-`   | Verbindungsaufbau|
-|`...-.`   | Bestätigung ACK |
-|`...-.`   | Bestätigung ACK |
-|`........`| Fehler, keine Bestätigung, NACK |
+| Sonderzeichen 		| Bedeutung                            | 
+|-----------------	| -------------------------------------|
+|`-.-.-`   			| Verbindungsaufbau                    |
+|`...-.`   			| Bestätigung ACK                      |
+|`...-.`   			| Bestätigung ACK                      |
+|`........`			| Fehler, keine Bestätigung, NACK      |
 
 ### Pakete
 
@@ -92,7 +93,7 @@ Die Kommunikation läuft in etwa so ab:
 
 Alle Dateien in diesem Repository steht unter einer *Namensnennung -- Nicht-kommerziell -- Weitergabe unter gleichen Bedingungen 4.0 International*-Lizenz. Die Bedingungen der Lizenz können unter folgendem Link eingesehen werden: [http://creativecommons.org/licenses/by-nc-sa/4.0/deed.de](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
 
-### Autoren:
+### Autoren
 
 * Heiner Stroick
 * Tim Vormann
